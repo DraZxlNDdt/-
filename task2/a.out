@@ -1,0 +1,4 @@
+by True:
+(┐P∧┐Q∧┐R)∨(P∧Q∧┐R)∨(┐P∧┐Q∧R)∨(┐P∧Q∧R)∨(P∧Q∧R)
+by False:
+(┐P∨Q∨R)∧(P∨┐Q∨R)∧(┐P∨Q∨┐R)
